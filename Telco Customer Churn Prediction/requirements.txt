@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Modelos adicionales
+xgboost
+
+# Web frameworks
+flask
+streamlit
+
+# Utilidades
+joblib
