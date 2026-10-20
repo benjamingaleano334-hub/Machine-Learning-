@@ -18,11 +18,17 @@ Tecnologías utilizadas
 
 Estructura del proyecto
 
-prediccoon_abandono/
-├── README.md
-└── proyecto.ipynb
 
-Desarrollo
+prediccion_abandono/
+│├─── README.md
+├── prediccion_abandono.ipynb
+├── prediccion_estudiantes.xlsx
+│
+└── datos/
+    ├──
+    └── ...
+
+Desarrolloo
 
 El trabajo se encuentra desarrollado en el archivo "proyecto.ipynb", donde se incluyen el código, los procedimientos utilizados y los resultados obtenidos.
 
