@@ -18,24 +18,24 @@ Tecnologías utilizadas
 
 Estructura del proyecto
 
-
-prediccion_abandono/
-│├─── README.md
+pprediccion_abandonoo/
+│
+├── README.md
 ├── prediccion_abandono.ipynb
-├── prediccion_estudiantes.xlsx
+├── predicciónes_DatosFinal.xlsx
 │
 └── datos/
-    ├──
-    └── ...
+    ├── TablaPrediccionAbandono-DatosFinal.xlsx
+    └── TablaPrediccionAbandono-Entrenamiento.xlsx
 
-Desarrolloo
+Desarrollo
 
-El trabajo se encuentra desarrollado en el archivo "proyecto.ipynb", donde se incluyen el código, los procedimientos utilizados y los resultados obtenidos.
+El trabajo se encuentra desarrollado en el archivo "tp_abandon.ipynb", donde se incluyen el código, los procedimientos utilizados y los resultados obtenidos.
 
-Cómo ejecutar el proyecto
+Como ejecutar el proyecto
 
 1. Descargar o clonar el repositorio.
-2. Abrir el archivo "proyecto.ipynb" con Jupyter Notebook o Google Colab.
+2. Abrir el archivo "tp_abandon.ipynb" con Jupyter Notebook o Google Colab.
 3. Ejecutar las celdas en orden para visualizar el desarrollo del trabajo.
 
 Autores
